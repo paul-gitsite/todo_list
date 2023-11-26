@@ -1,0 +1,15 @@
+footer {
+    background-color: var(--blue);
+    color: var(--white);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 3rem;
+    align-items: center;
+    width: 100%;
+}
+ footer > p {
+    font-weight: 100;
+    text-shadow: black 1px 0 10px;
+    font-size: small;
+ }

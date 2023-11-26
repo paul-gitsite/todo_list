@@ -1,0 +1,13 @@
+header {
+    background-color: var(--blue);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    height: 4rem;
+}   
+
+header h1 {
+    font-weight: 100;
+    text-shadow: black 1px 0 10px;
+}
